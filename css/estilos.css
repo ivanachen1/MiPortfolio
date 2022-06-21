@@ -1,0 +1,19 @@
+.encabezado {
+    height: 0.02vh;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 38px;
+    color: white;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.733);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:larger;
+}
+
+.banner-encabezado {
+    background: linear-gradient(rgba(0,0,0,0.11), rgba(0,0,0,0.11)),url(https://import.cdn.thinkific.com/630745%2Fcustom_site_themes%2Fid%2FP4862evwSHOLpio9bjlT_front_jb.jpg?width=1920);
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
